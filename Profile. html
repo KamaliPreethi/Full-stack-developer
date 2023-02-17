@@ -1,3 +1,7 @@
+<html>
+<head>
+<register>
+<body>
 <div class='indent-20'>
    <label>
       Enter your date of birth:  
@@ -11,3 +15,5 @@
      <input num="Contact" type="text">
    </label>
 </div>
+</body>
+</head>
